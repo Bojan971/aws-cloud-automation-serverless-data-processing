@@ -1,0 +1,5 @@
+{
+    "bucket": "bojan-music-toplists",
+    "prefix": "raw/",
+    "execution": "manual"
+}
